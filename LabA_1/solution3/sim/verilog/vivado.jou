@@ -1,0 +1,16 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Oct 11 18:08:14 2022
+# Process ID: 118724
+# Current directory: D:/1111HLS/LabA/LabA_1/solution3/sim/verilog
+# Command line: vivado.exe -source open_wave.tcl
+# Log file: D:/1111HLS/LabA/LabA_1/solution3/sim/verilog/vivado.log
+# Journal file: D:/1111HLS/LabA/LabA_1/solution3/sim/verilog\vivado.jou
+# Running On: DESKTOP-DR3I53C, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 6, Host memory: 34137 MB
+#-----------------------------------------------------------
+start_gui
+source open_wave.tcl
+open_wave_config D:/1111HLS/LabA/LabA_1/solution3/sim/verilog/adders.wcfg
+close_sim

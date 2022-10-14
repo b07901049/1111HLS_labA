@@ -1,0 +1,47 @@
+// ==============================================================
+// Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+// Tool Version Limit: 2022.04
+// Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+// ==============================================================
+
+extern void AESL_WRAP_axi_interfaces (
+int d_o_0,
+int d_o_1,
+int d_o_2,
+int d_o_3,
+int d_o_4,
+int d_o_5,
+int d_o_6,
+int d_o_7,
+int d_i_0,
+int d_i_1,
+int d_i_2,
+int d_i_3,
+int d_i_4,
+int d_i_5,
+int d_i_6,
+int d_i_7,
+int d_i_8,
+int d_i_9,
+int d_i_10,
+int d_i_11,
+int d_i_12,
+int d_i_13,
+int d_i_14,
+int d_i_15,
+int d_i_16,
+int d_i_17,
+int d_i_18,
+int d_i_19,
+int d_i_20,
+int d_i_21,
+int d_i_22,
+int d_i_23,
+int d_i_24,
+int d_i_25,
+int d_i_26,
+int d_i_27,
+int d_i_28,
+int d_i_29,
+int d_i_30,
+int d_i_31);

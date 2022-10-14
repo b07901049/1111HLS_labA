@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# xsim v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Oct 11 18:22:54 2022
+# Process ID: 133028
+# Current directory: D:/1111HLS/LabA/LabA_2/solution1/sim/verilog
+# Command line: xsim.exe -mode tcl -source {xsim.dir/adders_io/xsim_script.tcl}
+# Log file: D:/1111HLS/LabA/LabA_2/solution1/sim/verilog/xsim.log
+# Journal file: D:/1111HLS/LabA/LabA_2/solution1/sim/verilog\xsim.jou
+# Running On: DESKTOP-DR3I53C, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 6, Host memory: 34137 MB
+#-----------------------------------------------------------
+source xsim.dir/adders_io/xsim_script.tcl
+open_wave_config adders_io_dataflow_ana.wcfg
+source adders_io.tcl

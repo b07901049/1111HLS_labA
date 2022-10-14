@@ -1,0 +1,20 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling(apcc) ../../../array_io_test.c in debug mode
+INFO: [HLS 200-10] Running 'D:/Xilinx/Vitis_HLS/2022.1/bin/unwrapped/win64.o/apcc.exe'
+INFO: [HLS 200-10] For user 'briantseng' on host 'desktop-dr3i53c' (Windows NT_amd64 version 6.2) on Wed Oct 12 09:40:52 +0800 2022
+INFO: [HLS 200-10] In directory 'D:/1111HLS/LabA/LabA_3/solution2/csim/build'
+INFO: [APCC 202-3] Tmp directory is apcc_db
+INFO: [APCC 202-1] APCC is done.
+INFO: [HLS 200-112] Total CPU user time: 0 seconds. Total CPU system time: 0 seconds. Total elapsed time: 2.441 seconds; peak allocated memory: 0.664 MB.
+   Compiling(apcc) ../../../array_io.c in debug mode
+INFO: [HLS 200-10] Running 'D:/Xilinx/Vitis_HLS/2022.1/bin/unwrapped/win64.o/apcc.exe'
+INFO: [HLS 200-10] For user 'briantseng' on host 'desktop-dr3i53c' (Windows NT_amd64 version 6.2) on Wed Oct 12 09:40:56 +0800 2022
+INFO: [HLS 200-10] In directory 'D:/1111HLS/LabA/LabA_3/solution2/csim/build'
+INFO: [APCC 202-3] Tmp directory is apcc_db
+INFO: [APCC 202-1] APCC is done.
+INFO: [HLS 200-112] Total CPU user time: 0 seconds. Total CPU system time: 0 seconds. Total elapsed time: 2.436 seconds; peak allocated memory: 0.898 MB.
+   Generating csim.exe
+Test passed !
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

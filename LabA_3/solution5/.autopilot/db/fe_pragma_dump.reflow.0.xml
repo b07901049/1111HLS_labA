@@ -1,0 +1,5 @@
+<pragmas>
+<pragma file="LabA_3/array_io.c" line="8" pragmaType="unroll" parentfunction="array_io" factor="-1" skip_exit_check="0"/>
+<pragma file="LabA_3/array_io.c" line="7" pragmaType="bind_storage" parentfunction="array_io" op="666" impl="207" latency="-1" variable="d_o"/>
+<pragma file="LabA_3/array_io.c" line="9" pragmaType="bind_storage" parentfunction="array_io" op="666" impl="208" latency="-1" variable="d_i"/>
+</pragmas>

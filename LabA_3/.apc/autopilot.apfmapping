@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="array_io.c" path="D:\1111HLS\LabA\LabA_3\array_io.c"/>
+    <originFiles name="array_io.h" path="D:\1111HLS\LabA\LabA_3\array_io.h"/>
+  </source>
+  <testbench>
+    <originFiles name="array_io_test.c" path="D:\1111HLS\LabA\LabA_3\array_io_test.c"/>
+    <originFiles name="result.golden.dat" path="D:\1111HLS\LabA\Interface_Synthesis\lab3\result.golden.dat"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
